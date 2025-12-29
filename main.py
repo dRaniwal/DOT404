@@ -12,7 +12,7 @@ from heatmap import build_heatmap
 from heatmap_smoothing import HeatmapSmoother
 
 # ================= CONFIGURATION =================
-VIDEO_PATH = "videos/Footage_las1.mp4"
+VIDEO_PATH = "videos/v7-nonv.webm"
 GRID = (4, 4)
 
 # Resolution must be divisible by 8 for RAFT
